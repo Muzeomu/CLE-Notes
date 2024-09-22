@@ -106,7 +106,7 @@ Malware, short for malicious software, refers to any program or file that is har
 ## Denial of Service (DoS) Attacks
 A Denial of Service (DoS) attack is when an attacker attempts to make a network or server unavailable to legitimate users by overwhelming it with fake requests.
 
-![](https://www.manageengine.com/products/netflow/images/dos-attack.jpeg)
+<img src="https://www.manageengine.com/products/netflow/images/dos-attack.jpeg" width="350">
 
 ### Types of DoS Attacks:
 * Flooding the Network: Overloading the network to prevent legitimate traffic.
