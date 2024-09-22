@@ -1,3 +1,4 @@
+# Unit - 1 Networks and the Internet 
 
 ## Three Aspects of Information Security:
 
@@ -80,9 +81,9 @@ Basic network utilities help manage, diagnose, and troubleshoot network issues. 
 * Tracert is a command used to trace the path packets take from your device to a destination. 
 * It shows each hop (router or network device) the packet goes through and how long it takes to reach each one. 
 * This helps identify where delays or failures occur in the network path.
-* For example, tracert google.com will show all the intermediate devices that a request to Google passes through.
+* For example, tracert google.com will show all the intermediate devices that a request to Google passes through.<br><br>
 
-## Unit - 2
+# Unit - 2 Introduction to Computer Security
 
 ## Malware
 Malware, short for malicious software, refers to any program or file that is harmful to a computer user. It can be spread via physical means like USB drives or over the internet through methods like drive-by downloads.
